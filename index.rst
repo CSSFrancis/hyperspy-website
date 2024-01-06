@@ -1,5 +1,4 @@
 :sd_hide_title:
-
 .. title:: Home
 
 .. toctree::
@@ -8,15 +7,20 @@
    news/index
 
 
-.. image:: _static/hyperspy_banner.png
+
+.. image:: _static/hyperspy_banner_light.png
    :alt: HyperSpy logo
    :class: logo, mainlogo, only-light
    :align: center
 
-.. image:: _static/hyperspy_banner.png
+.. image:: _static/hyperspy_banner_dark.png
    :alt: HyperSpy logo
    :class: logo, mainlogo, only-dark
    :align: center
+
+
+.. raw:: html
+   :file: _static/_html/banner.html
 
 .. div:: sd-text-center sd-font-weight-bold sd-fs-4 sd-width-50
    
