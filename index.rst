@@ -7,25 +7,12 @@
    news/index
 
 
-
-.. image:: _static/hyperspy_banner_light.png
-   :alt: HyperSpy logo
-   :class: logo, mainlogo, only-light
-   :align: center
-
-.. image:: _static/hyperspy_banner_dark.png
-   :alt: HyperSpy logo
-   :class: logo, mainlogo, only-dark
-   :align: center
-
+HyperSpy
+========
 
 .. raw:: html
    :file: _static/_html/banner.html
 
-.. div:: sd-text-center sd-font-weight-bold sd-fs-4 sd-width-50
-   
-   Open source Python framework for exploring, visualising and analysing 
-   multi-dimensional data.
 
 .. grid:: 2 3 3 3
   :gutter: 4
@@ -83,7 +70,7 @@
 
 
 .. rst-class:: text-center sd-font-weight-bold sd-fs-3
-   
+
    HyperSpy Ecosystem
 
 
