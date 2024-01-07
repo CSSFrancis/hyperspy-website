@@ -13,7 +13,7 @@
    :class: logo, mainlogo, only-light
    :align: center
 
-.. image:: _static/hyperspy_banner.png
+.. image:: _static/hyperspy_dark_banner.svg
    :alt: HyperSpy logo
    :class: logo, mainlogo, only-dark
    :align: center
